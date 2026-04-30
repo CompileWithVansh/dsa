@@ -1,0 +1,15 @@
+# Excel tracking sheet (personal, not for sharing)
+*.xlsx
+*.xls
+
+# Excel temp lock files
+~$*
+
+# Python scripts (internal tooling)
+generate_structure.py
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

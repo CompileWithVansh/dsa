@@ -1,0 +1,3 @@
+# Permutations
+
+**LeetCode:** #46
