@@ -10,15 +10,13 @@ This repository is purely for **revision purposes**. It contains my solutions to
 
 ## How It's Structured
 
-Each topic has its own folder. Inside every topic, each question gets its own folder named after its LeetCode number (`LC-<number>`). Inside that, there are two subfolders — one for the brute force approach and one for the optimal approach — each containing a `Main.java` file with the solution.
+Each topic has its own folder. Inside every topic, each question gets its own folder named after its LeetCode number (`LC-<number>`). Inside that folder there are two Java files — one for the brute force approach and one for the optimal — plus a `.md` file for the problem statement.
 
 ```
 topic/
 └── LC-<leetcode-number>/
-    ├── bruteforce/
-    │   └── Main.java
-    ├── optimal/
-    │   └── Main.java
+    ├── bruteforce.java
+    ├── optimal.java
     └── <Question Name>.md
 ```
 
