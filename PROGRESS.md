@@ -7,14 +7,14 @@
 | Topic | Done | Total | Progress |
 |-------|------|-------|----------|
 | Arrays | 1 | 40 | `░░░░░░░░░░` 2% |
-| Strings | 0 | 19 | `░░░░░░░░░░` 0% |
+| Strings | 1 | 19 | `░░░░░░░░░░` 5% |
 | Linked List | 1 | 15 | `░░░░░░░░░░` 7% |
 | Stack & Queue | 1 | 15 | `░░░░░░░░░░` 7% |
 | Trees | 0 | 20 | `░░░░░░░░░░` 0% |
 | Graph | 0 | 6 | `░░░░░░░░░░` 0% |
 | Dynamic Programming | 2 | 9 | `██░░░░░░░░` 22% |
 | Recursion & Backtracking | 0 | 10 | `░░░░░░░░░░` 0% |
-| **Total** | **5** | **134** | **4%** |
+| **Total** | **6** | **134** | **4%** |
 
 ## Arrays  `1/40` — 2%
 `░░░░░░░░░░░░░░░░░░░░`
@@ -62,8 +62,8 @@
 | 724 | Find Pivot Index | ⬜ |
 | 977 | Squares of a Sorted Array | ⬜ |
 
-## Strings  `0/19` — 0%
-`░░░░░░░░░░░░░░░░░░░░`
+## Strings  `1/19` — 5%
+`█░░░░░░░░░░░░░░░░░░░`
 
 | # | Problem | Status |
 |---|---------|--------|
@@ -83,7 +83,7 @@
 | 125 | Valid Palindrome | ⬜ |
 | 139 | Word Break | ⬜ |
 | 151 | Reverse Words in a String | ⬜ |
-| 242 | Valid Anagram | ⬜ |
+| 242 | LC-242 | ✅ |
 | 459 | Repeated Substring Pattern | ⬜ |
 | 647 | Palindromic Substrings | ⬜ |
 
