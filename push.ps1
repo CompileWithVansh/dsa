@@ -24,6 +24,9 @@ if ([string]::IsNullOrWhiteSpace($message)) {
     exit 1
 }
 
+Write-Host "  Updating PROGRESS.md..." -ForegroundColor Gray
+python (Join-Path $PSScriptRoot "progress.py") | Out-Null
+
 git add .
 git commit -m $message
 git push

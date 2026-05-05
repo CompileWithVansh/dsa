@@ -25,7 +25,9 @@ DSA/
 │
 ├── nq.ps1                    ← script: create a new question folder
 ├── fq.py                     ← script: fetch question from LeetCode API
-└── push.ps1                  ← script: commit and push to GitHub
+├── progress.py               ← script: generate PROGRESS.md tracker
+├── push.ps1                  ← script: commit and push to GitHub
+└── PROGRESS.md               ← auto-generated progress dashboard
 ```
 
 ### Topic folders
@@ -56,7 +58,7 @@ dailystreak/
 
 ## Automation Scripts
 
-This repo includes three scripts to make adding questions fast — no manual folder creation or copy-pasting needed.
+This repo includes scripts to make adding questions and tracking progress fast — no manual folder creation, copy-pasting, or spreadsheet updates needed.
 
 ### `nq.ps1` — Create a new question
 
@@ -89,9 +91,23 @@ python fq.py 42
 
 Requires Python 3 (no extra packages needed — uses only stdlib).
 
+### `progress.py` — Progress tracker
+
+Scans all topic folders and generates `PROGRESS.md` — a live dashboard showing which questions are solved (✅) and which are pending (⬜), with progress bars per topic and an overall summary.
+
+```bash
+python progress.py
+```
+
+A question is marked ✅ automatically when its `.java` or `.py` file contains real code (not just the default TODO template).
+
+You don't need to run this manually either:
+- **On file save** — a Kiro hook auto-runs it whenever you save a `.java` or `.py` file
+- **On push** — `push.ps1` runs it before every commit, so `PROGRESS.md` on GitHub is always up to date
+
 ### `push.ps1` — Push to GitHub
 
-Stages all changes, commits with your message, and pushes in one command.
+Stages all changes, commits with your message, and pushes in one command. Also auto-updates `PROGRESS.md` before committing.
 
 ```powershell
 .\push.ps1
