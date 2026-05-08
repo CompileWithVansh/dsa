@@ -6,7 +6,7 @@
 
 | Topic | Done | Total | Progress |
 |-------|------|-------|----------|
-| Arrays | 1 | 40 | `░░░░░░░░░░` 2% |
+| Arrays | 2 | 40 | `░░░░░░░░░░` 5% |
 | Strings | 1 | 19 | `░░░░░░░░░░` 5% |
 | Linked List | 1 | 15 | `░░░░░░░░░░` 7% |
 | Stack & Queue | 1 | 15 | `░░░░░░░░░░` 7% |
@@ -14,10 +14,10 @@
 | Graph | 0 | 6 | `░░░░░░░░░░` 0% |
 | Dynamic Programming | 2 | 9 | `██░░░░░░░░` 22% |
 | Recursion & Backtracking | 0 | 10 | `░░░░░░░░░░` 0% |
-| **Total** | **6** | **134** | **4%** |
+| **Total** | **7** | **134** | **5%** |
 
-## Arrays  `1/40` — 2%
-`░░░░░░░░░░░░░░░░░░░░`
+## Arrays  `2/40` — 5%
+`█░░░░░░░░░░░░░░░░░░░`
 
 | # | Problem | Status |
 |---|---------|--------|
@@ -25,7 +25,7 @@
 | 4 | Median of Two Sorted Arrays | ⬜ |
 | 11 | Container With Most Water | ⬜ |
 | 15 | 3Sum | ⬜ |
-| 26 | Remove Duplicates from Sorted Array | ⬜ |
+| 26 | LC-26 | ✅ |
 | 31 | Next Permutation | ⬜ |
 | 33 | Search in Rotated Sorted Array | ⬜ |
 | 41 | First Missing Positive | ⬜ |
