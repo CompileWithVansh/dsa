@@ -8,13 +8,13 @@
 |-------|------|-------|----------|
 | Arrays | 2 | 40 | `░░░░░░░░░░` 5% |
 | Strings | 1 | 19 | `░░░░░░░░░░` 5% |
-| Linked List | 1 | 15 | `░░░░░░░░░░` 7% |
+| Linked List | 2 | 15 | `█░░░░░░░░░` 13% |
 | Stack & Queue | 1 | 15 | `░░░░░░░░░░` 7% |
 | Trees | 0 | 20 | `░░░░░░░░░░` 0% |
 | Graph | 0 | 6 | `░░░░░░░░░░` 0% |
 | Dynamic Programming | 2 | 9 | `██░░░░░░░░` 22% |
 | Recursion & Backtracking | 0 | 10 | `░░░░░░░░░░` 0% |
-| **Total** | **7** | **134** | **5%** |
+| **Total** | **8** | **134** | **6%** |
 
 ## Arrays  `2/40` — 5%
 `█░░░░░░░░░░░░░░░░░░░`
@@ -87,8 +87,8 @@
 | 459 | Repeated Substring Pattern | ⬜ |
 | 647 | Palindromic Substrings | ⬜ |
 
-## Linked List  `1/15` — 7%
-`█░░░░░░░░░░░░░░░░░░░`
+## Linked List  `2/15` — 13%
+`██░░░░░░░░░░░░░░░░░░`
 
 | # | Problem | Status |
 |---|---------|--------|
@@ -98,7 +98,7 @@
 | 23 | Merge k Sorted Lists | ⬜ |
 | 25 | Reverse Nodes in k-Group | ⬜ |
 | 61 | Rotate List | ⬜ |
-| 83 | Remove Duplicates from Sorted List | ⬜ |
+| 83 | LC-83 | ✅ |
 | 138 | Copy List with Random Pointer | ⬜ |
 | 141 | Linked List Cycle | ⬜ |
 | 142 | Detect Cycle II | ⬜ |
