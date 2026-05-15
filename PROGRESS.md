@@ -6,7 +6,7 @@
 
 | Topic | Done | Total | Progress |
 |-------|------|-------|----------|
-| Arrays | 2 | 40 | `░░░░░░░░░░` 5% |
+| Arrays | 3 | 40 | `░░░░░░░░░░` 8% |
 | Strings | 1 | 19 | `░░░░░░░░░░` 5% |
 | Linked List | 2 | 15 | `█░░░░░░░░░` 13% |
 | Stack & Queue | 1 | 15 | `░░░░░░░░░░` 7% |
@@ -14,9 +14,9 @@
 | Graph | 0 | 6 | `░░░░░░░░░░` 0% |
 | Dynamic Programming | 2 | 9 | `██░░░░░░░░` 22% |
 | Recursion & Backtracking | 0 | 10 | `░░░░░░░░░░` 0% |
-| **Total** | **8** | **134** | **6%** |
+| **Total** | **9** | **134** | **7%** |
 
-## Arrays  `2/40` — 5%
+## Arrays  `3/40` — 8%
 `█░░░░░░░░░░░░░░░░░░░`
 
 | # | Problem | Status |
@@ -45,8 +45,8 @@
 | 128 | Longest Consecutive Sequence | ⬜ |
 | 134 | Gas Station | ⬜ |
 | 136 | Single Number | ⬜ |
-| 152 | Maximum Product Subarray | ⬜ |
-| 153 | Minimum in Rotated Sorted Array | ⬜ |
+| 152 | LC-152 | ⬜ |
+| 153 | LC-153 | ✅ |
 | 162 | Find Peak Element | ⬜ |
 | 169 | Majority Element | ⬜ |
 | 189 | Rotate Array | ⬜ |
