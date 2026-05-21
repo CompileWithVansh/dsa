@@ -6,7 +6,7 @@
 
 | Topic | Done | Total | Progress |
 |-------|------|-------|----------|
-| Arrays | 4 | 40 | `█░░░░░░░░░` 10% |
+| Arrays | 3 | 40 | `░░░░░░░░░░` 8% |
 | Strings | 1 | 19 | `░░░░░░░░░░` 5% |
 | Linked List | 2 | 15 | `█░░░░░░░░░` 13% |
 | Stack & Queue | 1 | 15 | `░░░░░░░░░░` 7% |
@@ -14,15 +14,15 @@
 | Graph | 0 | 6 | `░░░░░░░░░░` 0% |
 | Dynamic Programming | 2 | 9 | `██░░░░░░░░` 22% |
 | Recursion & Backtracking | 0 | 10 | `░░░░░░░░░░` 0% |
-| **Total** | **10** | **134** | **7%** |
+| **Total** | **9** | **134** | **7%** |
 
-## Arrays  `4/40` — 10%
-`██░░░░░░░░░░░░░░░░░░`
+## Arrays  `3/40` — 8%
+`█░░░░░░░░░░░░░░░░░░░`
 
 | # | Problem | Status |
 |---|---------|--------|
 | 1 | Two Sum | ✅ |
-| 4 | Median of Two Sorted Arrays | ✅ |
+| 4 | Median of Two Sorted Arrays | ⬜ |
 | 11 | Container With Most Water | ⬜ |
 | 15 | 3Sum | ⬜ |
 | 26 | LC-26 | ✅ |
