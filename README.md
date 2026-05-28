@@ -133,6 +133,6 @@ Or pass the message directly to skip the prompt:
 - Dynamic Programming
 - Daily Streak
 
-## Note on Solutions
+## Note on Solutions (updated)
 
 Solutions are written in Java or Python depending on the problem. Each folder has both a brute force and an optimal approach, with time and space complexity noted at the top of each file.
